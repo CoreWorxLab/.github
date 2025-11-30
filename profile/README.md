@@ -15,11 +15,6 @@ Everything here is built in public. Follow along, use what's useful, contribute 
 
 ## Projects
 
-### CAAL
-Local voice AI assistant with persistent memory and smart home integration. Wake word: "Hey Cal". Fully local processing - your voice never leaves your network.
-
-*Coming soon*
-
 ### [livekit-local-plugins](https://github.com/CoreWorxLab/livekit-local-plugins)
 GPU-accelerated STT and TTS plugins for LiveKit Agents. Run speech recognition and text-to-speech entirely on your own hardware.
 
@@ -27,6 +22,16 @@ GPU-accelerated STT and TTS plugins for LiveKit Agents. Run speech recognition a
 - **PiperTTS** - High-quality local text-to-speech
 
 Powers the local pipeline for CAAL.
+
+### [homepage-configs](https://github.com/CoreWorxLab/homepage-configs)
+Example [homepage](https://gethomepage.dev) config files to give you a kick start on your homepage dashboard.
+
+Accompanies the CoreWorxLab video [here](https://www.youtube.com/watch?v=ATCTWXvoM38).
+
+### CAAL
+Local voice AI assistant with persistent memory and smart home integration. Wake word: "Hey Cal". Fully local processing - your voice never leaves your network.
+
+*Coming soon*
 
 ## Connect
 
