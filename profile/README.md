@@ -15,7 +15,7 @@ Everything here is built in public. Follow along, use what's useful, contribute 
 
 ## Projects
 
-### [livekit-local-plugins](https://github.com/CoreWorxLab/livekit-local-plugins)
+### [local-livekit-plugins](https://github.com/CoreWorxLab/local-livekit-plugins)
 GPU-accelerated STT and TTS plugins for LiveKit Agents. Run speech recognition and text-to-speech entirely on your own hardware.
 
 - **FasterWhisperSTT** - Local speech-to-text with CUDA acceleration
